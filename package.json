@@ -4,7 +4,7 @@
   "description": "print files",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-native-printer": "^1.0.0-beta.5",
     "nodemon": "^2.0.2"
   },
